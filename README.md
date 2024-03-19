@@ -1,5 +1,21 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+19466
+Fork on GitHub
+5811
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm Chuma Raxothi</h1>
-<h3 align="center">As a versatile professional adept in both software development and network engineering, I bring a unique blend of technical expertise to the table. With a solid foundation in languages like JavaScript, Python, Node.js, Java, HTML, and CSS, I thrive in crafting robust and scalable software solutions. Proficient in UI/UX design, I utilize tools such as Balsamiq and Figma to create intuitive wireframes and sleek interfaces.💻</h3>
+<h3 align="center">As a versatile professional adept in both software development and network engineering, I bring a unique blend of technical expertise to the table. With a solid foundation in languages like JavaScript, Python, Node.js, Java, HTML, and CSS, I thrive in crafting robust and scalable software solutions. Proficient in UI/UX design, I utilize tools such as Balsamiq and Figma to create intuitive wireframes and sleek interfaces.💻 Furthermore, my background in network engineering equips me with essential skills in Cisco technologies and an introduction to cybersecurity. From configuring complex networks to implementing security protocols, I am adept at ensuring seamless connectivity and safeguarding digital assets.⚙️ Driven by a relentless pursuit of excellence, I am eager to contribute my diverse skill set to projects that push the boundaries of technology and drive meaningful impact.📈</h3>
 
 - 🔭 I’m currently working on [Travel Project](travel-project-six-iota.vercel.app)
 
