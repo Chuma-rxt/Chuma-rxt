@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Chuma-rxt/Chuma-rxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Chuma Raxothi</h1>
 <h3 align="center">As a versatile professional adept in both software development and network engineering, I bring a unique blend of technical expertise to the table. With a solid foundation in languages like JavaScript, Python, Node.js, Java, HTML, and CSS, I thrive in crafting robust and scalable software solutions. Proficient in UI/UX design, I utilize tools such as Balsamiq and Figma to create intuitive wireframes and sleek interfaces.💻</h3>
 
