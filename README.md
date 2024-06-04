@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **craxoti60@gmail.com**
 
-- 📄 Know about my experiences [my-curriculum-nine.vercel.app](my-curriculum-nine.vercel.app)
+- 📄 Know about my experiences (https://my-curriculum-kvs4.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
